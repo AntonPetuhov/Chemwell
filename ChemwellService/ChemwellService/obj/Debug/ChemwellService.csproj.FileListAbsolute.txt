@@ -1,0 +1,16 @@
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\ChemwellService.exe.config
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\ChemwellService.exe
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\ChemwellService.pdb
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\System.Security.AccessControl.dll
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\System.Security.Permissions.dll
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\System.Security.AccessControl.xml
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\System.Security.Permissions.xml
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\obj\Debug\ChemwellService.csproj.AssemblyReference.cache
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\obj\Debug\ChemwellService.csproj.CoreCompileInputs.cache
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\obj\Debug\ChemwellService.csproj.CopyComplete
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\obj\Debug\ChemwellService.exe
+C:\Users\anton.petuhov\source\repos\ChemwellService\ChemwellService\obj\Debug\ChemwellService.pdb

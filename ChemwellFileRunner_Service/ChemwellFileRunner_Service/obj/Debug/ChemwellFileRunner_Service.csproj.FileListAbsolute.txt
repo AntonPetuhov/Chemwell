@@ -1,0 +1,7 @@
+C:\Users\anton.petuhov\source\repos\ChemwellFileRunner_Service\ChemwellFileRunner_Service\bin\Debug\ChemwellFileRunner_Service.exe.config
+C:\Users\anton.petuhov\source\repos\ChemwellFileRunner_Service\ChemwellFileRunner_Service\bin\Debug\ChemwellFileRunner_Service.exe
+C:\Users\anton.petuhov\source\repos\ChemwellFileRunner_Service\ChemwellFileRunner_Service\bin\Debug\ChemwellFileRunner_Service.pdb
+C:\Users\anton.petuhov\source\repos\ChemwellFileRunner_Service\ChemwellFileRunner_Service\obj\Debug\ChemwellFileRunner_Service.csproj.AssemblyReference.cache
+C:\Users\anton.petuhov\source\repos\ChemwellFileRunner_Service\ChemwellFileRunner_Service\obj\Debug\ChemwellFileRunner_Service.csproj.CoreCompileInputs.cache
+C:\Users\anton.petuhov\source\repos\ChemwellFileRunner_Service\ChemwellFileRunner_Service\obj\Debug\ChemwellFileRunner_Service.exe
+C:\Users\anton.petuhov\source\repos\ChemwellFileRunner_Service\ChemwellFileRunner_Service\obj\Debug\ChemwellFileRunner_Service.pdb

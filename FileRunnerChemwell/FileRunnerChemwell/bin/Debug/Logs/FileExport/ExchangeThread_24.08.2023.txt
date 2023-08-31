@@ -1,0 +1,18 @@
+24.08.2023 12:33:12: Файл: C:\\Chemwell_export\test_export.lis
+24.08.2023 12:33:12: Файл C:\\Chemwell_export\test_export.lis обработан и записан в базу FNC2.
+24.08.2023 12:33:12: 
+24.08.2023 12:33:12: Файл: C:\\Chemwell_export\test_export2.lis
+24.08.2023 12:33:12: Файл C:\\Chemwell_export\test_export2.lis обработан и записан в базу FNC2.
+24.08.2023 12:33:12: 
+24.08.2023 12:38:06: Файл: C:\\Chemwell_export\test_export.lis
+24.08.2023 12:38:07: Файл C:\\Chemwell_export\test_export.lis обработан и записан в базу FNC2.
+24.08.2023 12:38:07: 
+24.08.2023 12:38:07: Файл: C:\\Chemwell_export\test_export2.lis
+24.08.2023 12:38:07: Файл C:\\Chemwell_export\test_export2.lis обработан и записан в базу FNC2.
+24.08.2023 12:38:07: 
+24.08.2023 14:43:38: Файл: C:\\Chemwell_export\test_export.lis
+24.08.2023 14:43:39: Файл C:\\Chemwell_export\test_export.lis обработан и записан в базу FNC2.
+24.08.2023 14:43:39: 
+24.08.2023 14:43:39: Файл: C:\\Chemwell_export\test_export2.lis
+24.08.2023 14:43:39: Файл C:\\Chemwell_export\test_export2.lis обработан и записан в базу FNC2.
+24.08.2023 14:43:39: 

@@ -1,0 +1,3 @@
+22.08.2023 17:19:16: Файл: C:\\Chemwell_export\\test_export.lis
+22.08.2023 17:19:17: Файл C:\\Chemwell_export\\test_export.lis обработан и записан в базу FNC2.
+22.08.2023 17:19:17: 
